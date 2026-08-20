@@ -90,6 +90,6 @@ jobs:
       run: |
         git config --global user.email "vazeershaik.aws@gmail.com"
         git config --global user.name "VazeerShaik-AWS"
-        git add helm/go-web-app-chart/values.yaml
+        git add helm/web-app-chart/values.yaml
         git commit -m "Update tag in Helm chart"
         git push
