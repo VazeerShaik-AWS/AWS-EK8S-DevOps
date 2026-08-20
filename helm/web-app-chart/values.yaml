@@ -7,7 +7,11 @@ image:
   repository: techonline077/web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
+<<<<<<< HEAD
   tag: "32382298574"
+=======
+  tag: "32387791299"
+>>>>>>> 0600c0fe27c43ddedf8c260d0324072f23d8caba
 
 ingress:
   enabled: false
