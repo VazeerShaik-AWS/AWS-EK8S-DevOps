@@ -120,9 +120,9 @@ Application: Go, golangci-lint
 
 ---
 
-## Contact
+##Author
 
-Email: [vazeershaik.aws@gmail.com]
+**Vazeer-Shaik**
 GitHub: https://github.com/VazeerShaik-AWS
 Portfolio: https://www.vazeershaik.in
 
