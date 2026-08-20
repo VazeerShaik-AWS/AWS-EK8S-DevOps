@@ -1,11 +1,10 @@
-# Default values for go-web-app-chart.
-# This is a YAML-formatted file.
-# Declare variables to be passed into your templates.
+# values for web-app-chart.
+
 
 replicaCount: 1
 
 image:
-  repository: abhishekf5/go-web-app
+  repository: techonline077/web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "v1"
@@ -21,4 +20,3 @@ ingress:
       paths:
         - path: /
           pathType: ImplementationSpecific
-
