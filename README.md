@@ -123,7 +123,8 @@ Application: Go, golangci-lint
 ---
 
 ## Author
-**Vazeer-Shaik
+
+**Vazeer-Shaik**
 
 GitHub: https://github.com/VazeerShaik-AWS
 
