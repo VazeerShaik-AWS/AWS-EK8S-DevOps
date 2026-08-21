@@ -1,4 +1,6 @@
-# Go Web App — Cloud-Native DevOps on AWS EKS
+# AWS-K8S / DevOps
+
+![Go web application home page](web-app-home.png)
 
 Production-style application delivery on Amazon EKS: containerize, publish, package with Helm, and expose traffic through NGINX Ingress and an AWS Load Balancer, with GitHub Actions CI and Argo CD GitOps.
 
@@ -120,9 +122,9 @@ Application: Go, golangci-lint
 
 ---
 
-##Author
+## Contact
 
-**Vazeer-Shaik**
+Email: [vazeershaik.aws@gmail.com]
 GitHub: https://github.com/VazeerShaik-AWS
 Portfolio: https://www.vazeershaik.in
 
